@@ -11,6 +11,10 @@
 -
 -
 ## To do list
+- Settings
+<p> - Keybing change option <p>
+<p> - Settings Saves <p>
+
 - Auto Answer
--
+
 ## Created by pearl_cz
