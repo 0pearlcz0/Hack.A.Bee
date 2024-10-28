@@ -11,8 +11,8 @@
 <p> After activating you must go to https://wocabee.app/app/ and use CTRL to instant answer.
 
 ## Features
--
--
+- Instant Answer
+- <del>Auto Answer
 ## To do list
 - Settings
 <p> - <del>Keybing change option <p>
