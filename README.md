@@ -1,5 +1,6 @@
 # How to install
 <p> Download as Browser Extension on opera addons store or edge addons store:
+
 -
 -
 
