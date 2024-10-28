@@ -15,8 +15,8 @@
 -
 ## To do list
 - Settings
-<p> - <ins>Keybing change option <p>
-<p> - <ins>Settings Saves <p>
+<p> - <del>Keybing change option <p>
+<p> - <del>Settings Saves <p>
 
 - Auto Answer
 
