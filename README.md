@@ -1,5 +1,7 @@
 # How to install
-<p> Download as Browser Extension on opera addons store or edge addons store
+<p> Download as Browser Extension on opera addons store or edge addons store:
+-
+-
 
 # How to activate
 <p> You need to use license key to activate the extension that you can get by typing your e-mail in the Issues category.
