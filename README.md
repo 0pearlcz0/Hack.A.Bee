@@ -20,4 +20,6 @@
 
 - Auto Answer
 
+- Voice Hack
+
 ## Created by pearl_cz
