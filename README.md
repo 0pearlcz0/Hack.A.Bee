@@ -12,7 +12,6 @@
 
 ## Features
 - Instant Answer
-- <del>Auto Answer
 ## To do list
 - Settings
 <p> - <del>Keybing change option <p>
